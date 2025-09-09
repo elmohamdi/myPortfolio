@@ -69913,10 +69913,10 @@ A.FF.prototype={
 J(a){var s=null
 return A.bJ(s,A.cA(A.b([B.au,A.aly(s,A.Lt("assets/icons/linkedin.svg",s,s,s),s,s,new A.Wr(),s,s),A.aly(s,A.Lt("assets/icons/github.svg",s,s,s),s,s,new A.Ws(),s,s),B.au],t.p),B.A,B.p),B.r,s,s,s,s,s,B.GO,s,s,s,s)}}
 A.Wr.prototype={
-$0(){A.l3(A.el("https://linkedin.com/in/hamad-anwar",0,null))},
+$0(){A.l3(A.el("www.linkedin.com/in/mohamed-yasser-2a4279357",0,null))},
 $S:0}
 A.Ws.prototype={
-$0(){A.l3(A.el("https://github.com/hamad-anwar",0,null))},
+$0(){A.l3(A.el("https://github.com/elmohamdi",0,null))},
 $S:0}
 A.FN.prototype={
 J(a){var s=null
